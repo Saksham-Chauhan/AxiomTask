@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AxiomTask/static/css/main.3e34f209.chunk.css",
+    "main.js": "/AxiomTask/static/js/main.63c1500e.chunk.js",
+    "main.js.map": "/AxiomTask/static/js/main.63c1500e.chunk.js.map",
+    "runtime-main.js": "/AxiomTask/static/js/runtime-main.ebe3c9a1.js",
+    "runtime-main.js.map": "/AxiomTask/static/js/runtime-main.ebe3c9a1.js.map",
+    "static/css/2.818011ed.chunk.css": "/AxiomTask/static/css/2.818011ed.chunk.css",
+    "static/js/2.f06f711a.chunk.js": "/AxiomTask/static/js/2.f06f711a.chunk.js",
+    "static/js/2.f06f711a.chunk.js.map": "/AxiomTask/static/js/2.f06f711a.chunk.js.map",
+    "static/js/3.0b0c62bd.chunk.js": "/AxiomTask/static/js/3.0b0c62bd.chunk.js",
+    "static/js/3.0b0c62bd.chunk.js.map": "/AxiomTask/static/js/3.0b0c62bd.chunk.js.map",
+    "index.html": "/AxiomTask/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/AxiomTask/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.3e34f209.chunk.css.map": "/AxiomTask/static/css/main.3e34f209.chunk.css.map",
+    "static/js/2.f06f711a.chunk.js.LICENSE.txt": "/AxiomTask/static/js/2.f06f711a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebe3c9a1.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.f06f711a.chunk.js",
+    "static/css/main.3e34f209.chunk.css",
+    "static/js/main.63c1500e.chunk.js"
+  ]
+}
